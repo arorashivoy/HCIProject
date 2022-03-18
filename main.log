@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2022/dev) (preloaded format=pdflatex 2022.3.18)  18 MAR 2022 17:19
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2022/dev) (preloaded format=pdflatex 2022.3.18)  18 MAR 2022 18:02
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -34,9 +34,7 @@ Package acmart Info: Explicitly selecting natbib mode on input line 134.
 Package acmart Info: Not using anonymous mode on input line 142.
 Package acmart Info: Not using timestamp mode on input line 150.
 Package acmart Info: Not using authordraft mode on input line 160.
-Package acmart Info: Using screen mode on input line 174.
-Package acmart Info: Using review mode on input line 174.
-Class acmart Info: Using format manuscript, number 0 on input line 174.
+Class acmart Info: Using format acmtog, number 3 on input line 174.
 Class acmart Info: Using fontsize 9pt on input line 258.
  (/usr/local/texlive/2021/texmf-dist/tex/latex/amscls/amsart.cls
 Document Class: amsart 2020/05/29 v2.20.6
@@ -190,9 +188,7 @@ Package: everyshi 2020/11/18 v4.00 EveryShipout Package
 Package: environ 2014/05/04 v0.3 A new way to define environments
  (/usr/local/texlive/2021/texmf-dist/tex/latex/trimspaces/trimspaces.sty
 Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
-)) (/usr/local/texlive/2021/texmf-dist/tex/latex/setspace/setspace.sty
-Package: setspace 2011/12/19 v6.7a set line spacing
-) (/usr/local/texlive/2021/texmf-dist/tex/latex/textcase/textcase.sty
+)) (/usr/local/texlive/2021/texmf-dist/tex/latex/textcase/textcase.sty
 Package: textcase 2019/09/14 v1.00 Text only upper/lower case changing (DPC)
 ) (/usr/local/texlive/2021/texmf-dist/tex/latex/natbib/natbib.sty
 Package: natbib 2010/09/13 8.31b (PWD, AO)
@@ -549,7 +545,7 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \@ACM@badge@skip=\skip64
 Class acmart Info: Printing CCS on input line 1608.
 Class acmart Info: Printing bibformat on input line 1608.
-Class acmart Info: Printing folios on input line 1610.
+Class acmart Info: Printing folios on input line 1613.
 Class acmart Info: Setting authorsperrow to 0 on input line 1618.
  (/usr/local/texlive/2021/texmf-dist/tex/latex/comment/comment.sty
 \CommentStream=\write3
@@ -572,9 +568,6 @@ Package: fancyhdr 2021/01/28 v4.0.1 Extensive control of page headers and footer
 \f@nch@O@olf=\skip73
 \f@nch@O@orf=\skip74
 )
-\ACM@linecount@bx=\box59
-\ACM@linecount@bxht=\skip75
-\ACM@linecount=\count308
 \@folio@wd=\dimen190
 \@folio@ht=\dimen191
 \@folio@voffset=\dimen192
@@ -590,13 +583,15 @@ Package: inputenc 2021/02/14 v1.3d Input encoding file
 \inpenc@prehook=\toks38
 \inpenc@posthook=\toks39
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 44.
 Package hyperref Info: Option `pdfdisplaydoctitle' set `true' on input line 44.
-\c@theorem=\count309
- Include comment 'screenonly' Excluding comment 'printonly' Include comment 'anonsuppress' (/usr/local/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+\c@theorem=\count308
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/preprint/balance.sty
+Package: balance 1999/02/23 4.3 (PWD)
+\oldvsize=\dimen193
+) Excluding comment 'screenonly' Include comment 'printonly' Include comment 'anonsuppress' (/usr/local/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2022-02-07 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count310
-\l__pdf_internal_box=\box60
+\l__color_backend_stack_int=\count309
+\l__pdf_internal_box=\box59
 ) (./main.aux)
 \openout1 = `main.aux'.
 
@@ -689,13 +684,13 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `LinuxLibertineT-TLF' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-Package hyperref Info: Link coloring ON on input line 44.
+Package hyperref Info: Link coloring OFF on input line 44.
  (/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
  (/usr/local/texlive/2021/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count311
+\c@section@level=\count310
 )
 LaTeX Info: Redefining \ref on input line 44.
 LaTeX Info: Redefining \pageref on input line 44.
@@ -706,16 +701,16 @@ LaTeX Info: Redefining \nameref on input line 44.
 
  (/usr/local/texlive/2021/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count312
-\scratchdimen=\dimen193
-\scratchbox=\box61
-\nofMPsegments=\count313
-\nofMParguments=\count314
+\scratchcounter=\count311
+\scratchdimen=\dimen194
+\scratchbox=\box60
+\nofMPsegments=\count312
+\nofMParguments=\count313
 \everyMPshowfont=\toks40
-\MPscratchCnt=\count315
-\MPscratchDim=\dimen194
-\MPnumerator=\count316
-\makeMPintoPDFobject=\count317
+\MPscratchCnt=\count314
+\MPscratchDim=\dimen195
+\MPnumerator=\count315
+\makeMPintoPDFobject=\count316
 \everyMPtoPDFconversion=\toks41
 ) (/usr/local/texlive/2021/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
@@ -727,26 +722,26 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
 * driver: pdftex
-* paper: letterpaper
+* paper: custom
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
-* modes: twoside heightrounded 
-* h-part:(L,W,R)=(73.71613pt, 430.00462pt, 110.57425pt)
-* v-part:(T,H,B)=(95.39737pt, 556.47656pt, 143.09605pt)
+* modes: includehead includefoot twoside heightrounded 
+* h-part:(L,W,R)=(52.0pt, 510.295pt, 52.0pt)
+* v-part:(T,H,B)=(52.0pt, 667.96999pt, 75.0pt)
 * \paperwidth=614.295pt
 * \paperheight=794.96999pt
-* \textwidth=430.00462pt
-* \textheight=560.0pt
-* \oddsidemargin=1.44614pt
-* \evensidemargin=38.30426pt
-* \topmargin=-3.87262pt
+* \textwidth=510.295pt
+* \textheight=615.0pt
+* \oddsidemargin=-20.26999pt
+* \evensidemargin=-20.26999pt
+* \topmargin=-20.26999pt
 * \headheight=13.0pt
 * \headsep=14.0pt
 * \topskip=10.0pt
-* \footskip=12.0pt
-* \marginparwidth=72.0pt
+* \footskip=24.0pt
+* \marginparwidth=24.0pt
 * \marginparsep=11.0pt
-* \columnsep=10.0pt
+* \columnsep=24.0pt
 * \skip\footins=7.0pt plus 11.0pt
 * \hoffset=0.0pt
 * \voffset=0.0pt
@@ -757,8 +752,8 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-\c@mv@tabular=\count318
-\c@mv@boldtabular=\count319
+\c@mv@tabular=\count317
+\c@mv@boldtabular=\count318
 (/usr/local/texlive/2021/texmf-dist/tex/latex/upquote/upquote.sty
 Package: upquote 2012/04/19 v1.3 upright-quote and grave-accent glyphs in verbatim
 )
@@ -766,23 +761,21 @@ Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: float package is loaded.
 Package caption Info: End \AtBeginDocument code.
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 12.0pt on input line 46.
+(Font)              scaled to size 17.28pt on input line 46.
 LaTeX Font Info:    Trying to load font information for T1+LinuxBiolinumT-TLF on input line 46.
  (/usr/local/texlive/2021/texmf-dist/tex/latex/libertine/T1LinuxBiolinumT-TLF.fd
 File: T1LinuxBiolinumT-TLF.fd 2017/03/20 (autoinst) Font definitions for T1/LinuxBiolinumT-TLF.
 )
 LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/n' will be
-(Font)              scaled to size 12.0pt on input line 46.
+(Font)              scaled to size 17.28pt on input line 46.
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `LinuxBiolinumT-TLF' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/b/n' will be
-(Font)              scaled to size 12.0pt on input line 46.
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 10.95pt on input line 46.
+(Font)              scaled to size 12.0pt on input line 46.
 LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/n' will be
-(Font)              scaled to size 10.95pt on input line 46.
+(Font)              scaled to size 12.0pt on input line 46.
 LaTeX Font Info:    Trying to load font information for TS1+LinuxLibertineT-TLF on input line 46.
  (/usr/local/texlive/2021/texmf-dist/tex/latex/libertine/TS1LinuxLibertineT-TLF.fd
 File: TS1LinuxLibertineT-TLF.fd 2017/03/20 (autoinst) Font definitions for TS1/LinuxLibertineT-TLF.
@@ -814,36 +807,101 @@ File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
 LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/n' will be
 (Font)              scaled to size 9.0pt on input line 49.
-LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/b/n' will be
-(Font)              scaled to size 9.0pt on input line 49.
+LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/n' will be
+(Font)              scaled to size 10.0pt on input line 49.
 LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/it' will be
 (Font)              scaled to size 9.0pt on input line 59.
-LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 6.0pt on input line 64.
- [1.1{/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/m/n' will be
 (Font)              scaled to size 9.0pt on input line 71.
+
+Underfull \vbox (badness 4846) has occurred while \output is active []
+
+ [1.1{/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
+
+]
+<Resources/q1.png, id=76, 314.17375pt x 162.6075pt>
+File: Resources/q1.png Graphic file (type png)
+<use Resources/q1.png>
+Package pdftex.def Info: Resources/q1.png  used on input line 105.
+(pdftex.def)             Requested size: 227.62204pt x 117.80925pt.
+LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/n' will be
+(Font)              scaled to size 8.0pt on input line 106.
+<Resources/q2.png, id=78, 338.26375pt x 184.69pt>
+File: Resources/q2.png Graphic file (type png)
+<use Resources/q2.png>
+Package pdftex.def Info: Resources/q2.png  used on input line 114.
+(pdftex.def)             Requested size: 227.62204pt x 124.28271pt.
+<Resources/q3.png, id=79, 324.21124pt x 172.645pt>
+File: Resources/q3.png Graphic file (type png)
+<use Resources/q3.png>
+Package pdftex.def Info: Resources/q3.png  used on input line 123.
+(pdftex.def)             Requested size: 227.62204pt x 121.21156pt.
+<Resources/q4.png, id=80, 510.90875pt x 193.72375pt>
+File: Resources/q4.png Graphic file (type png)
+<use Resources/q4.png>
+Package pdftex.def Info: Resources/q4.png  used on input line 133.
+(pdftex.def)             Requested size: 227.62204pt x 86.30582pt.
+<Resources/q5.png, id=81, 323.2075pt x 163.61125pt>
+File: Resources/q5.png Graphic file (type png)
+<use Resources/q5.png>
+Package pdftex.def Info: Resources/q5.png  used on input line 142.
+(pdftex.def)             Requested size: 227.62204pt x 115.2236pt.
+<Resources/q6.png, id=82, 378.41376pt x 176.66pt>
+File: Resources/q6.png Graphic file (type png)
+<use Resources/q6.png>
+Package pdftex.def Info: Resources/q6.png  used on input line 151.
+(pdftex.def)             Requested size: 227.62204pt x 106.26367pt.
+LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/n' will be
+(Font)              scaled to size 7.0pt on input line 156.
+LaTeX Font Info:    Trying to load font information for TS1+LinuxBiolinumT-TLF on input line 156.
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/libertine/TS1LinuxBiolinumT-TLF.fd
+File: TS1LinuxBiolinumT-TLF.fd 2017/03/20 (autoinst) Font definitions for TS1/LinuxBiolinumT-TLF.
+)
+LaTeX Font Info:    Font shape `TS1/LinuxBiolinumT-TLF/m/n' will be
+(Font)              scaled to size 7.0pt on input line 156.
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `LinuxBiolinumT-TLF' (encoding: TS1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+ [2.2 <./Resources/q1.png> <./Resources/q2.png> <./Resources/q3.png> <./Resources/q4.png> <./Resources/q5.png>]
+<Resources/q7.png, id=99, 473.77pt x 213.79875pt>
+File: Resources/q7.png Graphic file (type png)
+<use Resources/q7.png>
+Package pdftex.def Info: Resources/q7.png  used on input line 160.
+(pdftex.def)             Requested size: 227.62204pt x 102.71683pt.
+<Resources/q8.png, id=100, 475.7775pt x 181.67876pt>
+File: Resources/q8.png Graphic file (type png)
+<use Resources/q8.png>
+Package pdftex.def Info: Resources/q8.png  used on input line 169.
+(pdftex.def)             Requested size: 227.62204pt x 86.91927pt.
  (/usr/local/texlive/2021/texmf-dist/tex/generic/stringenc/se-pdfdoc.def
 File: se-pdfdoc.def 2019/11/29 v1.12 stringenc: PDFDocEncoding
 ) (/usr/local/texlive/2021/texmf-dist/tex/generic/stringenc/se-utf8.def
 File: se-utf8.def 2019/11/29 v1.12 stringenc: UTF-8
-) [2.2] (./main.aux)
+)
+
+Class acmart Warning: ACM keywords are mandatory for papers over two pages.
+
+
+Class acmart Warning: CCS concepts are mandatory for papers over two pages.
+
+[3.3 <./Resources/q6.png> <./Resources/q7.png> <./Resources/q8.png>] (./main.aux)
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 27096DEA1BD32361490880202F6A1005;2350.
  ) 
 Here is how much of TeX's memory you used:
- 20646 strings out of 478276
- 335347 string characters out of 5846490
- 694518 words of memory out of 5000000
- 38085 multiletter control sequences out of 15000+600000
- 582754 words of font info for 210 fonts, out of 8000000 for 9000
+ 20807 strings out of 478276
+ 338874 string characters out of 5846490
+ 702654 words of memory out of 5000000
+ 38187 multiletter control sequences out of 15000+600000
+ 586319 words of font info for 235 fonts, out of 8000000 for 9000
  1302 hyphenation exceptions out of 8191
- 84i,15n,131p,1049b,545s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/libertine/lbtn_naooyc.enc}{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/libertine/lbtn_25tcsq.enc}{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/libertine/lbtn_nh77jq.enc}{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/libertine/lbtn_76gpa5.enc}</usr/local/texlive/2021/texmf-dist/fonts/type1/public/libertine/LinBiolinumT.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/libertine/LinBiolinumTB.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/libertine/LinBiolinumTI.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/libertine/LinLibertineT.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/libertine/LinLibertineTB.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/newtx/txsys.pfb>
-Output written on main.pdf (2 pages, 345173 bytes).
+ 84i,11n,131p,1049b,518s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/libertine/lbtn_afusau.enc}{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/libertine/lbtn_naooyc.enc}{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/libertine/lbtn_25tcsq.enc}{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/libertine/lbtn_76gpa5.enc}{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/libertine/lbtn_nh77jq.enc}</usr/local/texlive/2021/texmf-dist/fonts/type1/public/libertine/LinBiolinumT.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/libertine/LinBiolinumTI.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/libertine/LinLibertineT.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/libertine/LinLibertineTB.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/newtx/txsys.pfb>
+Output written on main.pdf (3 pages, 710182 bytes).
 PDF statistics:
- 119 PDF objects out of 1000 (max. 8388607)
- 97 compressed objects within 1 object stream
- 28 named destinations out of 1000 (max. 500000)
- 61529 words of extra memory for PDF output out of 61914 (max. 10000000)
+ 155 PDF objects out of 1000 (max. 8388607)
+ 116 compressed objects within 2 object streams
+ 37 named destinations out of 1000 (max. 500000)
+ 67713 words of extra memory for PDF output out of 74296 (max. 10000000)
 
