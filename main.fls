@@ -1,8 +1,8 @@
-PWD /Volumes/GoogleDrive/My Drive/IHCI/HCIProject
+PWD /Volumes/GoogleDrive/My Drive/IHCI/Project/HCIProject
 INPUT /usr/local/texlive/2021/texmf.cnf
 INPUT /usr/local/texlive/2021/texmf-dist/web2c/texmf.cnf
 INPUT /usr/local/texlive/2021/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT /Volumes/GoogleDrive/My Drive/IHCI/HCIProject/main.tex
+INPUT /Volumes/GoogleDrive/My Drive/IHCI/Project/HCIProject/main.tex
 OUTPUT main.log
 INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/acmart/acmart.cls
 INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/acmart/acmart.cls
