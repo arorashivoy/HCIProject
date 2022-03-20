@@ -1171,6 +1171,7 @@ INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/public/newtx/nxlmia.tfm
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/public/newtx/ntxsym.tfm
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/public/newtx/ntxsyc.tfm
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/public/newtx/ntxexa.tfm
+INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/public/libertine/LinLibertineTB-tlf-t1.tfm
 INPUT ./Resources/q1.png
 INPUT Resources/q1.png
 INPUT ./Resources/q1.png
@@ -1184,10 +1185,6 @@ INPUT ./Resources/q3.png
 INPUT Resources/q3.png
 INPUT ./Resources/q3.png
 INPUT ./Resources/q3.png
-INPUT ./Resources/q4.png
-INPUT Resources/q4.png
-INPUT ./Resources/q4.png
-INPUT ./Resources/q4.png
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/public/libertine/LinBiolinumT-tlf-t1.tfm
 INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/libertine/TS1LinuxBiolinumT-TLF.fd
 INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/libertine/TS1LinuxBiolinumT-TLF.fd
@@ -1201,8 +1198,14 @@ INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/public/libertine/LinBiolinumT
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/vf/public/newtx/ntxsy.vf
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/public/newtx/txsys.tfm
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/public/newtx/txex-bar.tfm
+INPUT /usr/local/texlive/2021/texmf-dist/fonts/vf/public/libertine/LinLibertineTB-tlf-t1.vf
+INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/public/libertine/LinLibertineTB-tlf-t1--base.tfm
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/vf/public/libertine/LinBiolinumT-tlf-t1.vf
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/public/libertine/LinBiolinumT-tlf-t1--base.tfm
+INPUT ./Resources/q4.png
+INPUT Resources/q4.png
+INPUT ./Resources/q4.png
+INPUT ./Resources/q4.png
 INPUT ./Resources/q5.png
 INPUT Resources/q5.png
 INPUT ./Resources/q5.png
@@ -1219,6 +1222,12 @@ INPUT ./Resources/q8.png
 INPUT Resources/q8.png
 INPUT ./Resources/q8.png
 INPUT ./Resources/q8.png
+INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/public/libertine/LinLibertineT-tlf-t1.tfm
+INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/public/libertine/LinLibertineT-tlf-t1.tfm
+INPUT /usr/local/texlive/2021/texmf-dist/fonts/vf/public/libertine/LinLibertineT-tlf-t1.vf
+INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/public/libertine/LinLibertineT-tlf-t1--base.tfm
+INPUT /usr/local/texlive/2021/texmf-dist/fonts/vf/public/libertine/LinLibertineT-tlf-t1.vf
+INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/public/libertine/LinLibertineT-tlf-t1--base.tfm
 INPUT /usr/local/texlive/2021/texmf-dist/tex/generic/stringenc/se-pdfdoc.def
 INPUT /usr/local/texlive/2021/texmf-dist/tex/generic/stringenc/se-pdfdoc.def
 INPUT /usr/local/texlive/2021/texmf-dist/tex/generic/stringenc/se-pdfdoc.def

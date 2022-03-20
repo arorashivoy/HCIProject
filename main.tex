@@ -20,30 +20,30 @@
 
 \usepackage[utf8]{inputenc}
 
-\title{HCI Project}
+\begin{document}
+
+\title{HELP DESK-solve your issues}
 
 %%% Authors
-\author{Shivoy Arora}
+\author{Shivoy Arora (2021420)}
 \email{shivoy21420@iiitd.ac.in}
 
-\author{Tushar Kumar}
+\author{Tushar Kumar (2021212)}
 \email{tushar21212@iiitd.ac.in}
 
-\author{Gaurav Gupta}
+\author{Gaurav Gupta (2021148)}
 \email{gaurav21148@iiitd.ac.in}
 
-\author{Ayush}
+\author{Ayush (2020501)}
 \email{ayush20501@iiitd.ac.in}
 
-\author{Manish}
+\author{Manish (2021164)}
 \email{manish21164@iiitd.ac.in}
 
-\author{Ankit Kumar Pal}
+\author{Ankit Kumar Pal (2021132)}
 \email{ankit21132@iiitd.ac.in}
 
 \date{March 2022}
-
-\begin{document}
 
 \begin{abstract}
     In their day-to-day life, people face a lot of difficulties like poor infrastructure, low maintenance of their area, and other social issues. These are the problems that need political support and assistance. But in most cases, these issues remain unsolved or take a long time to resolve. The main reason behind this is the poor communication between the political leaders and people. Most of the time people fail to judge who then have to seek help or in which government department they should go for their issue. Here we come up with a solution to this problem. Our program plays a key role to create a bridge between the political representatives and people. We are providing a platform to register their issues and complaint. They will get the contact details of the concerned political leader who can solve their issue. The program will also tell them about the government office where they should visit. Their complaint will also go to their concerned leaders. Leaders will have a profile in our programs that shows how they deal with the complaints. All our program will do is that helping people to hold the government accountable and efficient. This will create awareness about all the rights of people. Also here we are providing an assistant by providing steps to apply for some of the basic documents like VOTER ID CARD, AADHAAR CARD, etc.
@@ -54,6 +54,7 @@
 \section*{Introduction}
 One of our group members told us how a small issue of road repair in their locality takes up more than three months and a lot of efforts they have made. That story looks relatable to all of us as once in our life we have tried to solve any social issue and it took much more time as thought and takes too much effort. Most of us when trying to solve any problem don’t know about the procedure. We don’t know who we have to meet to seek help for the issue. There is no direct method by which we can communicate to our political representative about the issue. Soling issue through government officials is too long because of poor communication between people and officials. Many times when we tried to file an issue on any government website, we fails to find the correct website and procedure. Although we can improve the functioning of government websites but finding the correct path will reduce the solution time. That whole scenario put us thinking about how we can do something to improve this. Although there are some solutions available like complaint boxes/registers in government offices they are hard to get. We have planned to make a program that will improve communication and problem solving will be much easier. The program allows user to enter their issues along with their location, our program will provide the necessary detail of the political representative of that area who can solve the issue. The program will also provide some links to useful government websites where they can file the issue. The steps of doing so are also provided. Anyone who is active in solving the daily issues can use our program. All political leaders are also the stakeholders of the program as they can look after the complaints raised in their jurisdiction. The media also can use our program to allow the public to know about the working efficiency of any political leader. We have faced some of the challenges like getting correct information about the leaders is very difficult, constantly updating in government staff also poses a problem. We are dealing with these and try to give the best we can.
 
+\section*{Methodology:}
 % Problem Definition
 \section{PROBLEM DEFINITION AND IDENTIFYING STAKEHOLDERS}
 
@@ -70,7 +71,7 @@ One of our project group members, who live in a semi-remote area told us about t
 \subsubsection{Common People}
 As in politics, common people play a significant role. Various issues are faced by people which need political support get resolve
 \subsubsection{Political representatives}
-Political leaders (, i.e. MPs, MLAs, and counsellors) are at the center of this issue as they are the only ones who can resolve the issue raised
+Political leaders (i.e. MPs, MLAs, and counsellors) are at the center of this issue as they are the only ones who can resolve the issue raised
 \subsubsection{Government officials}
 Any order or solution of an issue given by a political representative is implemented by government officials
 \subsubsection{Media}
@@ -116,81 +117,100 @@ In our design we will provide the following facilities which make the process ea
 
 %% Requirement gathering
 \section{REQUIREMENT GATHERING}
-We have tried to reach the audience by the means of a google from which contained some questions related to the issue we are solving. We have got the following analysis
 
-\begin{figure}[H]
-    \includegraphics[width=8cm]{Resources/q1}
-    \caption{Question 1}
-    \label{fig:q1}
-    \Description{Do you know about your area's political representative}
-\end{figure}
+\begin{description}
+    %%% Google Form
+    \item[(A)] We have tried to reach the audience by the means of a google from which contained some questions related to the issue we are solving. We have got the following analysis
 
-In this question, we ask people whether they are familiar with (or know) their regional politics. According to the responses we come to know that majority of people are known to their political representative. But there is a group of people (approx. 37\%) who don’t know about their political leader. Our task is to make all people aware of their political representative.
+    \begin{figure}[H]
+        \includegraphics[width=8cm]{Resources/q1}
+        \caption{Question 1}
+        \label{fig:q1}
+        \Description{Do you know about your area's political representative}
+    \end{figure}
 
-\begin{figure}[H]
-    \includegraphics[width=8cm]{Resources/q2}
-    \caption{Question 2}
-    \label{fig:q2}
-    \Description{Have you ever tries to resolve a issue using government sites}
-\end{figure}
+    In this question, we ask people whether they are familiar with (or know) their regional politics. According to the responses we come to know that majority of people are known to their political representative. But there is a group of people (approx. 37\%) who don’t know about their political leader. Our task is to make all people aware of their political representative.
 
-From the above data we analyse that majority of people are engaged somehow in solving any issue either social or personal which need the interference of political leaders.
+    \begin{figure}[H]
+        \includegraphics[width=8cm]{Resources/q2}
+        \caption{Question 2}
+        \label{fig:q2}
+        \Description{Have you ever tries to resolve a issue using government sites}
+    \end{figure}
 
-\begin{figure}[H]
-    \includegraphics[width=8cm]{Resources/q3}
-    \caption{Question 3}
-    \label{fig:q3}
-    \Description{If yes, did you face any challenges while doing it}
-\end{figure}
+    From the above data we analyse that majority of people are engaged somehow in solving any issue either social or personal which need the interference of political leaders.
 
-The above data clearly states that the peoples who are engaged in solving any issue, a huge majority of people face challenges while resolving it. This is our main aim to make this process of solving issues simpler so people don’t face too many challenges.
+    \begin{figure}[H]
+        \includegraphics[width=8cm]{Resources/q3}
+        \caption{Question 3}
+        \label{fig:q3}
+        \Description{If yes, did you face any challenges while doing it}
+    \end{figure}
+
+    The above data clearly states that the peoples who are engaged in solving any issue, a huge majority of people face challenges while resolving it. This is our main aim to make this process of solving issues simpler so people don’t face too many challenges.
 
 
-\begin{figure}[H]
-    \includegraphics[width=8cm]{Resources/q4}
-    \caption{Question 4}
-    \label{fig:q4}
-    \Description{What were the challenges you faced}
-\end{figure}
+    \begin{figure}[H]
+        \includegraphics[width=8cm]{Resources/q4}
+        \caption{Question 4}
+        \label{fig:q4}
+        \Description{What were the challenges you faced}
+    \end{figure}
 
-In continuation of the above ques, we give some general challenges which were faced. Most people face all of the provided issues. But the issue of non-cooperative staff is faced by most of them. This challenge arises because of corruption in our system and there is no cross-checking and transparency. People not getting any response regarding their issue is also because of the same reason.
+    In continuation of the above ques, we give some general challenges which were faced. Most people face all of the provided issues. But the issue of non-cooperative staff is faced by most of them. This challenge arises because of corruption in our system and there is no cross-checking and transparency. People not getting any response regarding their issue is also because of the same reason.
 
-\begin{figure}[H]
-    \includegraphics[width=8cm]{Resources/q5}
-    \caption{Question 5}
-    \label{fig:q5}
-    \Description{Reasons behind the challenges faced}
-\end{figure}
+    \begin{figure}[H]
+        \includegraphics[width=8cm]{Resources/q5}
+        \caption{Question 5}
+        \label{fig:q5}
+        \Description{Reasons behind the challenges faced}
+    \end{figure}
 
-Here are some other reasons for the challenges faced by the people while solving an issue. We analyse that most people face problems while using a government website. This is because of the bad design and complex interface of websites. 
+    Here are some other reasons for the challenges faced by the people while solving an issue. We analyse that most people face problems while using a government website. This is because of the bad design and complex interface of websites. 
 
-\begin{figure}[H]
-    \includegraphics[width=8cm]{Resources/q6}
-    \caption{Question 6}
-    \label{fig:q6}
-    \Description{How long did the problem take to solve}
-\end{figure}
+    \begin{figure}[H]
+        \includegraphics[width=8cm]{Resources/q6}
+        \caption{Question 6}
+        \label{fig:q6}
+        \Description{How long did the problem take to solve}
+    \end{figure}
 
-We ask the audience to respond to the ques about the time which it takes to resolve an issue. Approx. half of them responded that their issue remains unsolved or it may take up to a month to solve the issue.
+    We ask the audience to respond to the ques about the time which it takes to resolve an issue. Approx. half of them responded that their issue remains unsolved or it may take up to a month to solve the issue.
 
-\begin{figure}[H]
-    \includegraphics[width=8cm]{Resources/q7}
-    \caption{Question 7}
-    \label{fig:q7}
-    \Description{How would you like to get the latest updates about the new government laws}
-\end{figure}
+    \begin{figure}[H]
+        \includegraphics[width=8cm]{Resources/q7}
+        \caption{Question 7}
+        \label{fig:q7}
+        \Description{How would you like to get the latest updates about the new government laws}
+    \end{figure}
 
-The above poll shows that most people are interested to get an update on all the policies and decisions made by the government. Most of them wanted to get notified through SMS on their phone or by the application notification of our program. Those who spend their time on PCs and laptops want to get notified through E-mail.
+    The above poll shows that most people are interested to get an update on all the policies and decisions made by the government. Most of them wanted to get notified through SMS on their phone or by the application notification of our program. Those who spend their time on PCs and laptops want to get notified through E-mail.
 
-\begin{figure}[H]
-    \includegraphics[width=8cm]{Resources/q8}
-    \caption{Question 8}
-    \label{fig:q8}
-    \Description{Suggestions}
-\end{figure}
+    \begin{figure}[H]
+        \includegraphics[width=8cm]{Resources/q8}
+        \caption{Question 8}
+        \label{fig:q8}
+        \Description{Suggestions}
+    \end{figure}
 
-Here are some other suggestions related to our program. We will take up these suggestions very strongly while designing our program
+    Here are some other suggestions related to our program. We will take up these suggestions very strongly while designing our program
 
+    %%% References
+    \item[(B)] We tried to study some documents and data available on the internet.
+    
+    \begin{enumerate}
+        \item It is one of the major problems of the rural side of our country, "Electricity Supply". Many governments have made and demolished over the years, but this problem still stands tall against the people living in those rural areas. Even some people for the rural areas of Uttar Pradesh reported that only when the bill arrives, do we know there's power, and when a crow dies and falls off the electric pole, we know there is some current in the wire because electricity doesn't come to their homes. When asked why they don't complain against this, they answered we don't know where to complain. They added that no one there is educated enough and has no idea about the processes.
+        \footnote[1]{\url{https://www.hindustantimes.com/india-news/the-challenges-of-india-s-grand-rural-electrification-scheme/story-pLilYKEh7At99BoSeERqXM.html}}
+        \item Indian government is very actively working towards e-governance and the citizens with access to internet-enabled computers and smartphones too look forward to an easier life. After all, who doesn’t like to use the online option provided by almost all the organizations and save time by avoiding the long queues at different utilities and departments. However, the biggest irony is that many governments or PSU websites that offer an online solution for the public or enterprises are more of an online headache for them. Some of these have navigational issues, others are updated only once in a few months, while many others have serious design or usability flaws.
+        \footnote[2]{\url{https://timesofindia.indiatimes.com/computing/8-worst-indian-government-websites/articleshow/14303498.cms}}
+        \item The Digital India initiative may be aiming to make all government services electronically available, but a recent study has found 10 government websites in Delhi lacking several transparency parameters. The study, published in Delhi Citizen’s Handbook 2016, audited the websites against predefined parameters of Section 4 of the Right to Information (RTI) Act that sets guidelines for proactive disclosure of information by government agencies without the public having filed RTI queries. Nine out of the 10 websites could not even meet 60\% of the compliance points, said the study, conducted by the Centre for Civil Society.	
+        \footnote[3]{\url{https://economictimes.indiatimes.com/news/politics-and-nation/digital-india-government-websites-fail-to-clear-transparency-test/articleshow/53781991.cms?from=mdr
+        }}
+        \item Ambala, a beautiful town in Haryana, famous for many tourist attractions like Bhawani Amba Temple, Badshahi Bagh Gurudwara, and large Indian Army base and Indian Air Force presence within its cantonment area. but still being beautiful town citizens of Ambala who are living in somewhere in the local areas like (novelty chowk) are facing issues in living their life and the major problem is they are going through is the harsh condition of roads. Which causes difficulty in the daily movement of people. After asking from them we came to know that many of them don’t even know where they have to complain about the road related concern. Some of them said that very few people show interest in this concern. We came to know from that they some people complain much time but didn’t get any responses from the authorities, and also no action and progress are shown till now. 
+        \footnote[4]{\url{https://youtu.be/ON9o-lYcq14}}
+    \end{enumerate}
+
+\end{description}
 
 
 % ANALYSIS AND FUTURE WORK
@@ -204,6 +224,60 @@ In the process of designing this program, we analyse the data gathered from the 
 % CONCLUSION
 \section*{Conclusion}
 We have tried to collect a sufficient amount of data from the audience and the internet related to our project. We have circulated some questionnaires, study some news articles, and evaluated the present solutions. We find that all of them have similarities in solving an issue. They don’t allow any direct interaction between officials and people. Many times the websites or other available programs are unable to understand the issue effectively which may lead to a long process and sometimes an unsuitable solution. We have kept all these points in mind while designing our program.
+
+% CONTRIBUTION
+\section*{Contributions}
+\begin{enumerate}
+    \item Shivoy Arora (2021420):
+    \begin{itemize}
+        \item Ideation
+        \item Overleaf
+        \item Resources gathering
+        \item Analysis and future work
+    \end{itemize}
+
+    \item Tushar Kumar (2021212):
+    \begin{itemize}
+        \item Ideation
+        \item Introduction
+        \item Methodology
+        \item Resources gathering
+    \end{itemize}
+
+    \item Gaurav Gupta (2021148):
+    \begin{itemize}
+        \item Ideation
+        \item Methodology
+        \item Resources gathering
+        \item Conclusion
+    \end{itemize}
+
+    \item Ayush (2020501):
+    \begin{itemize}
+        \item Ideation
+        \item Introduction
+        \item Methodology
+        \item Resources gathering
+    \end{itemize}
+
+    \item Manish (2021164):
+    \begin{itemize}
+        \item Ideation
+        \item Methodology
+        \item Resources gathering
+        \item Analysis and future work
+    \end{itemize}
+
+    \item Ankit Kumar Pal (2021132):
+    \begin{itemize}
+        \item Ideation
+        \item Abstract
+        \item Methodology
+        \item Resources gathering
+        \item Conclusion
+    \end{itemize}
+\end{enumerate}
+
 
 
 \end{document}
