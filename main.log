@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2022/dev) (preloaded format=pdflatex 2022.3.18)  20 MAR 2022 17:19
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2022/dev) (preloaded format=pdflatex 2022.3.18)  3 APR 2022 23:33
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -808,19 +808,19 @@ LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/m/n' will be
 (Font)              scaled to size 9.0pt on input line 85.
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/b/n' will be
 (Font)              scaled to size 9.0pt on input line 123.
-<Resources/q1.png, id=66, 314.17375pt x 162.6075pt>
+<Resources/q1.png, id=82, 314.17375pt x 162.6075pt>
 File: Resources/q1.png Graphic file (type png)
 <use Resources/q1.png>
 Package pdftex.def Info: Resources/q1.png  used on input line 126.
 (pdftex.def)             Requested size: 227.62204pt x 117.80925pt.
 LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/n' will be
 (Font)              scaled to size 8.0pt on input line 127.
-<Resources/q2.png, id=68, 338.26375pt x 184.69pt>
+<Resources/q2.png, id=84, 338.26375pt x 184.69pt>
 File: Resources/q2.png Graphic file (type png)
 <use Resources/q2.png>
 Package pdftex.def Info: Resources/q2.png  used on input line 135.
 (pdftex.def)             Requested size: 227.62204pt x 124.28271pt.
-<Resources/q3.png, id=69, 324.21124pt x 172.645pt>
+<Resources/q3.png, id=85, 324.21124pt x 172.645pt>
 File: Resources/q3.png Graphic file (type png)
 <use Resources/q3.png>
 Package pdftex.def Info: Resources/q3.png  used on input line 144.
@@ -841,27 +841,27 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
  [2.2 <./Resources/q1.png> <./Resources/q2.png>]
-<Resources/q4.png, id=95, 510.90875pt x 193.72375pt>
+<Resources/q4.png, id=111, 510.90875pt x 193.72375pt>
 File: Resources/q4.png Graphic file (type png)
 <use Resources/q4.png>
 Package pdftex.def Info: Resources/q4.png  used on input line 154.
 (pdftex.def)             Requested size: 227.62204pt x 86.30582pt.
-<Resources/q5.png, id=96, 323.2075pt x 163.61125pt>
+<Resources/q5.png, id=112, 323.2075pt x 163.61125pt>
 File: Resources/q5.png Graphic file (type png)
 <use Resources/q5.png>
 Package pdftex.def Info: Resources/q5.png  used on input line 163.
 (pdftex.def)             Requested size: 227.62204pt x 115.2236pt.
-<Resources/q6.png, id=97, 378.41376pt x 176.66pt>
+<Resources/q6.png, id=113, 378.41376pt x 176.66pt>
 File: Resources/q6.png Graphic file (type png)
 <use Resources/q6.png>
 Package pdftex.def Info: Resources/q6.png  used on input line 172.
 (pdftex.def)             Requested size: 227.62204pt x 106.26367pt.
-<Resources/q7.png, id=98, 473.77pt x 213.79875pt>
+<Resources/q7.png, id=114, 473.77pt x 213.79875pt>
 File: Resources/q7.png Graphic file (type png)
 <use Resources/q7.png>
 Package pdftex.def Info: Resources/q7.png  used on input line 181.
 (pdftex.def)             Requested size: 227.62204pt x 102.71683pt.
-<Resources/q8.png, id=99, 475.7775pt x 181.67876pt>
+<Resources/q8.png, id=115, 475.7775pt x 181.67876pt>
 File: Resources/q8.png Graphic file (type png)
 <use Resources/q8.png>
 Package pdftex.def Info: Resources/q8.png  used on input line 190.
@@ -890,7 +890,170 @@ Underfull \hbox (badness 10000) in paragraph at lines 208--208
 \T1/LinuxLibertineT-TLF/m/n/7 (+20) government -[] websites -[] fail -[] to -[] clear -[] transparency -[] test / articleshow / 53781991 . cms ?
  []
 
-[4.4] (/usr/local/texlive/2021/texmf-dist/tex/generic/stringenc/se-pdfdoc.def
+[4.4]
+<Resources/Login_signUp.jpg, id=157, 322.20375pt x 344.28625pt>
+File: Resources/Login_signUp.jpg Graphic file (type jpg)
+<use Resources/Login_signUp.jpg>
+Package pdftex.def Info: Resources/Login_signUp.jpg  used on input line 220.
+(pdftex.def)             Requested size: 227.62204pt x 243.23141pt.
+<Resources/Login.jpg, id=158, 317.185pt x 337.26pt>
+File: Resources/Login.jpg Graphic file (type jpg)
+<use Resources/Login.jpg>
+Package pdftex.def Info: Resources/Login.jpg  used on input line 226.
+(pdftex.def)             Requested size: 227.62204pt x 242.0345pt.
+<Resources/SignUp.jpg, id=159, 310.15875pt x 366.36874pt>
+File: Resources/SignUp.jpg Graphic file (type jpg)
+<use Resources/SignUp.jpg>
+Package pdftex.def Info: Resources/SignUp.jpg  used on input line 232.
+(pdftex.def)             Requested size: 227.62204pt x 268.87248pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+<Resources/Home.jpg, id=160, 297.11pt x 363.3575pt>
+File: Resources/Home.jpg Graphic file (type jpg)
+<use Resources/Home.jpg>
+Package pdftex.def Info: Resources/Home.jpg  used on input line 238.
+(pdftex.def)             Requested size: 227.62204pt x 278.38895pt.
+<Resources/RaiseIssue.jpg, id=161, 272.01625pt x 420.57124pt>
+File: Resources/RaiseIssue.jpg Graphic file (type jpg)
+<use Resources/RaiseIssue.jpg>
+Package pdftex.def Info: Resources/RaiseIssue.jpg  used on input line 244.
+(pdftex.def)             Requested size: 227.62204pt x 351.94904pt.
+
+Underfull \vbox (badness 2495) has occurred while \output is active []
+
+ [5.5
+
+ <./Resources/Login_signUp.jpg> <./Resources/Login.jpg> <./Resources/SignUp.jpg>]
+<Resources/ApplyDocument.jpg, id=169, 300.12125pt x 415.5525pt>
+File: Resources/ApplyDocument.jpg Graphic file (type jpg)
+<use Resources/ApplyDocument.jpg>
+Package pdftex.def Info: Resources/ApplyDocument.jpg  used on input line 250.
+(pdftex.def)             Requested size: 227.62204pt x 315.17642pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+<Resources/KnowRight.jpg, id=170, 351.3125pt x 485.815pt>
+File: Resources/KnowRight.jpg Graphic file (type jpg)
+<use Resources/KnowRight.jpg>
+Package pdftex.def Info: Resources/KnowRight.jpg  used on input line 256.
+(pdftex.def)             Requested size: 227.62204pt x 314.77525pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [6.6 <./Resources/Home.jpg> <./Resources/RaiseIssue.jpg>]
+<Resources/Profile.jpg, id=177, 287.0725pt x 359.3425pt>
+File: Resources/Profile.jpg Graphic file (type jpg)
+<use Resources/Profile.jpg>
+Package pdftex.def Info: Resources/Profile.jpg  used on input line 262.
+(pdftex.def)             Requested size: 227.62204pt x 284.9302pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+<Resources/Settings.jpg, id=178, 284.06125pt x 394.47375pt>
+File: Resources/Settings.jpg Graphic file (type jpg)
+<use Resources/Settings.jpg>
+Package pdftex.def Info: Resources/Settings.jpg  used on input line 268.
+(pdftex.def)             Requested size: 227.62204pt x 316.1091pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [7.7 <./Resources/ApplyDocument.jpg> <./Resources/KnowRight.jpg>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [8.8 <./Resources/Profile.jpg> <./Resources/Settings.jpg>]
+<Prototype/Low-fi/LowFi1.jpeg, id=192, 1284.8pt x 383.4325pt>
+File: Prototype/Low-fi/LowFi1.jpeg Graphic file (type jpg)
+<use Prototype/Low-fi/LowFi1.jpeg>
+Package pdftex.def Info: Prototype/Low-fi/LowFi1.jpeg  used on input line 278.
+(pdftex.def)             Requested size: 227.62204pt x 67.92664pt.
+<Prototype/Low-fi/LowFi2.jpeg, id=193, 1284.8pt x 460.72125pt>
+File: Prototype/Low-fi/LowFi2.jpeg Graphic file (type jpg)
+<use Prototype/Low-fi/LowFi2.jpeg>
+Package pdftex.def Info: Prototype/Low-fi/LowFi2.jpeg  used on input line 282.
+(pdftex.def)             Requested size: 227.62204pt x 81.61865pt.
+<Prototype/Low-fi/LowFi3.jpeg, id=194, 1284.8pt x 382.42876pt>
+File: Prototype/Low-fi/LowFi3.jpeg Graphic file (type jpg)
+<use Prototype/Low-fi/LowFi3.jpeg>
+Package pdftex.def Info: Prototype/Low-fi/LowFi3.jpeg  used on input line 286.
+(pdftex.def)             Requested size: 227.62204pt x 67.74881pt.
+<Prototype/Low-fi/LowFi4.jpeg, id=195, 1080.035pt x 552.0625pt>
+File: Prototype/Low-fi/LowFi4.jpeg Graphic file (type jpg)
+<use Prototype/Low-fi/LowFi4.jpeg>
+Package pdftex.def Info: Prototype/Low-fi/LowFi4.jpeg  used on input line 290.
+(pdftex.def)             Requested size: 227.62204pt x 116.3493pt.
+<Prototype/Low-fi/LowFi5.jpeg, id=196, 1115.16624pt x 538.01pt>
+File: Prototype/Low-fi/LowFi5.jpeg Graphic file (type jpg)
+<use Prototype/Low-fi/LowFi5.jpeg>
+Package pdftex.def Info: Prototype/Low-fi/LowFi5.jpeg  used on input line 294.
+(pdftex.def)             Requested size: 227.62204pt x 109.80841pt.
+<Prototype/Low-fi/LowFi6.jpeg, id=197, 1284.8pt x 926.46124pt>
+File: Prototype/Low-fi/LowFi6.jpeg Graphic file (type jpg)
+<use Prototype/Low-fi/LowFi6.jpeg>
+Package pdftex.def Info: Prototype/Low-fi/LowFi6.jpeg  used on input line 298.
+(pdftex.def)             Requested size: 227.62204pt x 164.1264pt.
+<Prototype/Low-fi/LowFi7.jpeg, id=198, 1148.29pt x 547.04375pt>
+File: Prototype/Low-fi/LowFi7.jpeg Graphic file (type jpg)
+<use Prototype/Low-fi/LowFi7.jpeg>
+Package pdftex.def Info: Prototype/Low-fi/LowFi7.jpeg  used on input line 302.
+(pdftex.def)             Requested size: 227.62204pt x 108.43852pt.
+<Prototype/Low-fi/LowFi8.jpeg, id=199, 1284.8pt x 542.025pt>
+File: Prototype/Low-fi/LowFi8.jpeg Graphic file (type jpg)
+<use Prototype/Low-fi/LowFi8.jpeg>
+Package pdftex.def Info: Prototype/Low-fi/LowFi8.jpeg  used on input line 306.
+(pdftex.def)             Requested size: 227.62204pt x 96.02194pt.
+ [9.9
+
+ <./Prototype/Low-fi/LowFi1.jpeg> <./Prototype/Low-fi/LowFi2.jpeg> <./Prototype/Low-fi/LowFi3.jpeg> <./Prototype/Low-fi/LowFi4.jpeg> <./Prototype/Low-fi/LowFi5.jpeg> <./Prototype/Low-fi/LowFi6.jpeg> <./Prototype/Low-fi/LowFi7.jpeg> <./Prototype/Low-fi/LowFi8.jpeg>]
+<Prototype/MockUps/Mockup1.png, id=212, 421.575pt x 804.75656pt>
+File: Prototype/MockUps/Mockup1.png Graphic file (type png)
+<use Prototype/MockUps/Mockup1.png>
+Package pdftex.def Info: Prototype/MockUps/Mockup1.png  used on input line 313.
+(pdftex.def)             Requested size: 227.62204pt x 434.52524pt.
+<Prototype/MockUps/Mockup2.png, id=213, 805.50937pt x 1618.54688pt>
+File: Prototype/MockUps/Mockup2.png Graphic file (type png)
+<use Prototype/MockUps/Mockup2.png>
+Package pdftex.def Info: Prototype/MockUps/Mockup2.png  used on input line 318.
+(pdftex.def)             Requested size: 227.62204pt x 457.36383pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [10.10
+
+ <./Prototype/MockUps/Mockup1.png> <./Prototype/MockUps/Mockup2.png>]
+<Evaluation/q1.jpg, id=223, 603.25375pt x 286.06876pt>
+File: Evaluation/q1.jpg Graphic file (type jpg)
+<use Evaluation/q1.jpg>
+Package pdftex.def Info: Evaluation/q1.jpg  used on input line 334.
+(pdftex.def)             Requested size: 227.62204pt x 107.939pt.
+<Evaluation/q2.jpg, id=224, 707.64375pt x 280.04625pt>
+File: Evaluation/q2.jpg Graphic file (type jpg)
+<use Evaluation/q2.jpg>
+Package pdftex.def Info: Evaluation/q2.jpg  used on input line 338.
+(pdftex.def)             Requested size: 227.62204pt x 90.07813pt.
+<Evaluation/q3.jpg, id=225, 707.64375pt x 304.13625pt>
+File: Evaluation/q3.jpg Graphic file (type jpg)
+<use Evaluation/q3.jpg>
+Package pdftex.def Info: Evaluation/q3.jpg  used on input line 342.
+(pdftex.def)             Requested size: 227.62204pt x 97.82678pt.
+<Evaluation/q4.jpg, id=226, 584.1825pt x 294.09875pt>
+File: Evaluation/q4.jpg Graphic file (type jpg)
+<use Evaluation/q4.jpg>
+Package pdftex.def Info: Evaluation/q4.jpg  used on input line 346.
+(pdftex.def)             Requested size: 227.62204pt x 114.59483pt.
+<Evaluation/q5.jpg, id=227, 398.48875pt x 139.52126pt>
+File: Evaluation/q5.jpg Graphic file (type jpg)
+<use Evaluation/q5.jpg>
+Package pdftex.def Info: Evaluation/q5.jpg  used on input line 350.
+(pdftex.def)             Requested size: 227.62204pt x 79.69612pt.
+<Evaluation/q6.jpg, id=228, 468.75125pt x 321.2pt>
+File: Evaluation/q6.jpg Graphic file (type jpg)
+<use Evaluation/q6.jpg>
+Package pdftex.def Info: Evaluation/q6.jpg  used on input line 354.
+(pdftex.def)             Requested size: 227.62204pt x 155.96805pt.
+ [11.11
+
+ <./Evaluation/q1.jpg> <./Evaluation/q2.jpg> <./Evaluation/q3.jpg> <./Evaluation/q4.jpg> <./Evaluation/q5.jpg> <./Evaluation/q6.jpg>] (/usr/local/texlive/2021/texmf-dist/tex/generic/stringenc/se-pdfdoc.def
 File: se-pdfdoc.def 2019/11/29 v1.12 stringenc: PDFDocEncoding
 ) (/usr/local/texlive/2021/texmf-dist/tex/generic/stringenc/se-utf8.def
 File: se-utf8.def 2019/11/29 v1.12 stringenc: UTF-8
@@ -901,26 +1064,25 @@ Class acmart Warning: ACM keywords are mandatory for papers over two pages.
 
 Class acmart Warning: CCS concepts are mandatory for papers over two pages.
 
-[5.5
-
+[12.12
 
 ] (./main.aux)
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: D24C98B2C8CD69A454C0A09B9C51F28D;2435.
+(rerunfilecheck)             Checksum: 7575ABC471E87CE652F90E6D6E3E9CDD;3013.
  ) 
 Here is how much of TeX's memory you used:
- 20874 strings out of 478276
- 339931 string characters out of 5846490
- 704732 words of memory out of 5000000
- 38169 multiletter control sequences out of 15000+600000
- 606952 words of font info for 278 fonts, out of 8000000 for 9000
+ 21106 strings out of 478276
+ 345351 string characters out of 5846490
+ 706746 words of memory out of 5000000
+ 38332 multiletter control sequences out of 15000+600000
+ 607498 words of font info for 282 fonts, out of 8000000 for 9000
  1302 hyphenation exceptions out of 8191
  84i,11n,131p,2193b,580s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/libertine/lbtn_afusau.enc}{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/libertine/lbtn_25tcsq.enc}{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/libertine/lbtn_nh77jq.enc}{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/libertine/lbtn_76gpa5.enc}</usr/local/texlive/2021/texmf-dist/fonts/type1/public/libertine/LinBiolinumT.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/libertine/LinBiolinumTI.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/libertine/LinLibertineT.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/libertine/LinLibertineTB.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/newtx/txsys.pfb>
-Output written on main.pdf (5 pages, 721027 bytes).
+Output written on main.pdf (12 pages, 2677497 bytes).
 PDF statistics:
- 197 PDF objects out of 1000 (max. 8388607)
- 157 compressed objects within 2 object streams
- 59 named destinations out of 1000 (max. 500000)
- 75913 words of extra memory for PDF output out of 89155 (max. 10000000)
+ 310 PDF objects out of 1000 (max. 8388607)
+ 235 compressed objects within 3 object streams
+ 98 named destinations out of 1000 (max. 500000)
+ 76070 words of extra memory for PDF output out of 89155 (max. 10000000)
 
